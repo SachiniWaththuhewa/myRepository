@@ -216,17 +216,18 @@ SECTION WRAPS
 }
 
 #footwrap {
-  background: #2f2f2f;
+  background: url(../img/footer.jpg) no-repeat center top;
+  
   padding-top: 50px;
   padding-bottom: 50px;
 }
 
 #footwrap p {
-  color: white;
+  color: rgba(121, 37, 231, 0.438);
 }
 
 #footwrap h5 {
-  color: white;
+  color: rgb(113, 39, 197);
 }
 
 #footwrap t {
