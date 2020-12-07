@@ -223,11 +223,11 @@ SECTION WRAPS
 }
 
 #footwrap p {
-  color: rgba(19, 15, 24, 0.438);
+  color: #222222;
 }
 
 #footwrap h5 {
-  color: rgb(17, 3, 32);
+  color: #222222;
 }
 
 #footwrap t {
