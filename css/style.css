@@ -223,11 +223,11 @@ SECTION WRAPS
 }
 
 #footwrap p {
-  color: rgba(121, 37, 231, 0.438);
+  color: rgba(19, 15, 24, 0.438);
 }
 
 #footwrap h5 {
-  color: rgb(113, 39, 197);
+  color: rgb(17, 3, 32);
 }
 
 #footwrap t {
@@ -236,7 +236,7 @@ SECTION WRAPS
 
 #footwrap i {
   padding-right: 8px;
-  color: #1abc9c;
+  color: #010c0a;
 }
 
 /* Copyright Wrap */
